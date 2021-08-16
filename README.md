@@ -1,3 +1,5 @@
+# This is a proof-of-concept for a Le Wagon lecture
+
 # Data analysis
 - Document here the project: bbquote
 - Description: Project Description
